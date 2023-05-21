@@ -1,0 +1,9 @@
+// tell it this is a node project
+{
+  "env": {
+    "node": true
+  },
+  "rules": {
+    // Add any additional ESLint rules specific to your project
+  }
+}
